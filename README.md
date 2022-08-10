@@ -1,5 +1,5 @@
 
-churrascometro criado com javascript.
+churrascometro criado com javascript, html e css.
 
 https://cleitonlahm.github.io/churrascometro/
 
